@@ -8,7 +8,7 @@ Made mostely for checking out the code, but if you wish to run it yourseld (few 
 ```bash
 git clone https://github.com/niryarden/euler_project_solutions
 cd euler_project_solutions
-python3 euler<ques_number>.py
+python3 solutions\euler<ques_number>.py
 ```
 
 ### requirements
